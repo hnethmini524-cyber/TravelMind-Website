@@ -8,12 +8,19 @@ TravelMind is a responsive travel website that lets users explore destinations, 
 🧭 Features
 
 ✈️ Hero Section – Inspiring travel message with call-to-action
+
 🌅 Popular Destinations – Cards displaying locations
+
 💡 Travel Tips Section – Helpful guidance for better travel experiences
+
 🌎 Informative Articles – Engaging section to encourage exploration
+
 📊 Stats Overview – Travel experience, places visited, and overall ratings
+
 🗺️ World Categories – Explore nature, urban, and cultural wonders
+
 💬 Fun Fact Section – Random travel trivia to engage users
+
 📞 Footer – Includes quick links, contact info, and subscription form
 
 🛠️ Technologies Used
