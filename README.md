@@ -8,23 +8,23 @@ TravelMind is a responsive travel website that lets users explore destinations, 
 
 🧭 Features
 
-  ✈️ Hero Section – Inspiring travel message with call-to-action
+  * Hero Section – Inspiring travel message with call-to-action
 
-  🌅 Popular Destinations – Cards displaying locations
+  * Popular Destinations – Cards displaying locations
 
-  💡 Travel Tips Section – Helpful guidance for better travel experiences
+  * Travel Tips Section – Helpful guidance for better travel experiences
 
-  🌎 Informative Articles – Engaging section to encourage exploration
+  * Informative Articles – Engaging section to encourage exploration
 
-  📊 Stats Overview – Travel experience, places visited, and overall ratings
+  * Stats Overview – Travel experience, places visited, and overall ratings
 
-  🗺️ World Categories – Explore nature, urban, and cultural wonders
+  * World Categories – Explore nature, urban, and cultural wonders
 
-  💬 Fun Fact Section – Random travel trivia to engage users
+  * Fun Fact Section – Random travel trivia to engage users
 
-  📞 Footer – Includes quick links, contact info, and subscription form
+  * Footer – Includes quick links, contact info, and subscription form
 
-  
+---
 
 🛠️ Technologies Used
 
@@ -32,6 +32,7 @@ TravelMind is a responsive travel website that lets users explore destinations, 
 *  Styling: CSS
 *  Fonts: Google Fonts
 
+---
 
 📂 Folder Structure
 
