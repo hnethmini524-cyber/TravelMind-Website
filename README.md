@@ -1,4 +1,4 @@
-🌍 TravelMind
+# 🌍 TravelMind
 
 Discover the world with ease and excitement!
 TravelMind is a responsive travel website that lets users explore destinations, travel tips, fun facts, and unique experiences — all in one elegant interface.
@@ -6,7 +6,7 @@ TravelMind is a responsive travel website that lets users explore destinations, 
 ✨ This project was inspired by a YouTube tutorial from *** "Web Design Mastery" *** channel.
 
 
-🧭 Features
+## 🧭 Features
 
   * Hero Section – Inspiring travel message with call-to-action
 
@@ -26,7 +26,7 @@ TravelMind is a responsive travel website that lets users explore destinations, 
 
 ---
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 *  Frontend: HTML, CSS, JavaScript
 *  Styling: CSS
@@ -34,7 +34,7 @@ TravelMind is a responsive travel website that lets users explore destinations, 
 
 ---
 
-📂 Folder Structure
+## 📂 Folder Structure
 
 *  index.html
 *  styles.css
@@ -43,7 +43,7 @@ TravelMind is a responsive travel website that lets users explore destinations, 
 *  README.md
 
 
-🎨 Design Inspiration & Credits
+## 🎨 Design Inspiration & Credits
 
 This project was inspired by a YouTube tutorial from *** "Web Design Mastery" *** channel.
 Special thanks to them for the design guidance and layout structure.
